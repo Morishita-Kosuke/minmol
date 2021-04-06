@@ -646,9 +646,6 @@ button:focus {
         margin: 0 0px;
         line-height: 15px;
     }
-    .header-name {
-        font-size: 38px;
-    }
     .clip-home{
         clip-path: none;
     }
