@@ -638,6 +638,9 @@ button:focus {
         clip-path: none;
         padding: 120px 0 140px;
     }
+    .header-name {
+    font-size: 20px;
+    }
     .wave-home.h-100vh{
         height: auto;
         padding: 120px 0 190px;
